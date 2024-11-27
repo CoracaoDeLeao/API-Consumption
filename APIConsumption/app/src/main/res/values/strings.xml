@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">API Consumption</string>
+    <string name="conversor">Corretor de inflação</string>
+    <string name="btn_conversor">Corrigir</string>
+    <string name="campo_hint">R$</string>
+    <string name="data_final">Data final</string>
+    <string name="data_inicial">Data inicial</string>
+    <string name="sem_cor">Sem correção</string>
+    <string name="com_cor">Com correção</string>
+    <string name="img_desc">Seta</string>
+</resources>
