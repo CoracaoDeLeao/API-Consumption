@@ -7,6 +7,8 @@ Uma aplicação mobile desenvolvida em **Java** para corrigir valores monetário
 [![IMG-20241127-162636.jpg](https://i.postimg.cc/fL3H6RNk/IMG-20241127-162636.jpg)](https://postimg.cc/34TCG7WH)
 [![IMG-20241127-162612.jpg](https://i.postimg.cc/9fy01G4f/IMG-20241127-162612.jpg)](https://postimg.cc/5HNf2QSc)
 
+---
+
 ## 📋 **Sobre o Projeto**
 
 Este projeto tem como objetivo calcular a correção de valores monetários com base nos dados do IPCA fornecidos pelo Banco Central. O usuário pode:  
